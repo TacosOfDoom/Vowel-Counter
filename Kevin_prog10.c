@@ -1,4 +1,4 @@
-//Kevin, Arrays, Strings, and Structs
+//  Kevin, Arrays, Strings, and Structs
 
 #include<stdio.h>
 #include<ctype.h>   // tolower and to upper
@@ -15,7 +15,7 @@ typedef struct {
 
 //function prototypes:
 
-//A function that greets the user and gets the first name of the user
+// A function that greets the user and gets the first name of the user
 void Greeting(char name[]);
 
 //A function that gets a word from the user and makes a copy of that word
